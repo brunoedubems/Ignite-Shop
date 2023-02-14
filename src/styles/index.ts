@@ -1,4 +1,4 @@
-import { createStitches } from "@stitches/react";
+import { createStitches } from '@stitches/react';
 
 export const {
   config,
@@ -22,6 +22,7 @@ export const {
 
       "green-300": "#00B37E",
       "green-500": "#00875F",
+      blue: "#4568DC",
 
     },
   },
