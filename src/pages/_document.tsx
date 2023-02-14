@@ -17,6 +17,7 @@ export default function Document() {
         />
         <style id="stitches" dangerouslySetInnerHTML={{__html: getCssText()}} />
       </Head>
+      
       <body>
         <Main />
         <NextScript />
